@@ -1,0 +1,12 @@
+li {
+  padding-right: 3%;
+}
+button {
+  border: none;
+  background-color: transparent;
+  opacity: 0.6;
+}
+
+.add-btn {
+  opacity: 1;
+}
